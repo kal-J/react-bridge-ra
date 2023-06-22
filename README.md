@@ -5,6 +5,8 @@ This guide assumes you have already followed the [Bridge Reliant Application Get
 
 We shall be lauching a `saveBiometricConsent` Intent to get the `consentID`. This should give us a clear picture on how to go about consuming the rest of the [Bridge RA APIs](https://developer.mastercard.com/cp-kernel-integration-api/documentation/reference-pages/bridge-ra-api-reference/)
 
+You can find the final code on this [GitHub Repo](https://github.com/kal-J/react-bridge-ra/)
+
 ## The base requirements
 - Node v16.20.0 or later
 
